@@ -1,46 +1,46 @@
-# 🌙 SkySat
+# SkySat
 
 ![image 3](https://github.com/VictorBravim/SkySat/assets/122113588/2ba98353-ee0f-42db-b31b-60e92cf7403f)
 
 
-## 🚀 Overview
+## <code>Introdução</code>
 
-This repository contains the React components for the SkySat project, a web application that provides information about satellites and Earth orbits.
+Este repositório contém os componentes React para o projeto SkySat, uma projeto que serve como estudo e prática de estrutura front-end.
 
-## 📋 Requirements
+## <code>Pré-requisitos</code>
 
 - Node.js
 - npm ou yarn
 
-## 🔧 Installation
+## <code>Configuração</code>
 
-1. Clone this repository:
+1. Clone este repositório:
 
 ```
 git clone https://github.com/VictorBravim/SkySat.git
 ```
 
-2. Navigate to the project directory:
+2. Navegue até o diretório do projeto:
    
 ```
 cd SkySat
 ```
    
-3. Install dependencies:
+3. Instale dependências:
 
 ```
 npm install
 ```
 
-## 🛠️ Project Structure
+## <code>Estrutura</code>
 
-- Nav.tsx: Navigation bar component containing the logo and navigation links.
-- Hero.tsx: Main banner component that provides an overview of the SkySat project.
-- Card.tsx: Information card component that displays information about different orbits and satellites.
-- Mission.tsx: Component that describes the mission of the SkySat project and presents a related image.
-- Function.tsx: Component that describes the functionalities of the SkySat project and presents a related image.
-- Footer.tsx: Footer component containing additional navigation links and copyright information.
+- Nav.tsx: Componente da barra de navegação contendo o logotipo e links de navegação.
+- Hero.tsx: Componente principal do banner que fornece uma visão geral do projeto SkySat.
+- Card.tsx: Componente de cartão de informações que exibe informações sobre diferentes órbitas e satélites.
+- Mission.tsx: Componente que descreve a missão do projeto SkySat e apresenta uma imagem relacionada.
+- Function.tsx: Componente que descreve as funcionalidades do projeto SkySat e apresenta uma imagem relacionada.
+- Footer.tsx: Componente de rodapé contendo links de navegação adicionais e informações de direitos autorais.
 
-## 📄 License
+## <code>Licença</code>
 
-- This project is licensed under the [MIT License](LICENSE).
+- Este projeto está licenciado sob a [Licença MIT](LICENSE).
